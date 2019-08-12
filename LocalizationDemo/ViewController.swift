@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     
         let greetLabel = UILabel(frame: CGRect(x: 10, y: 50, width: view.bounds.width - 20 , height: 50))
-        greetLabel.backgroundColor = .red
+        greetLabel.backgroundColor = .green
         greetLabel.textAlignment = .center
         greetLabel.text = NSLocalizedString("greet-message-key", comment: "Not used")
         
