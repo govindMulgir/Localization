@@ -33,6 +33,9 @@
 		030D171B22FDA0F400B36D3B /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/Main.strings"; sourceTree = "<group>"; };
 		030D171C22FDA0F400B36D3B /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
 		030D171D22FDA0F400B36D3B /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		03A8568F23017EA3002DB0E4 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/Main.strings; sourceTree = "<group>"; };
+		03A8569023017EA3002DB0E4 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		03A8569123017EA3002DB0E4 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +124,7 @@
 				fr,
 				it,
 				"en-GB",
+				hi,
 			);
 			mainGroup = 030D16F222FD7C5100B36D3B;
 			productRefGroup = 030D16FC22FD7C5100B36D3B /* Products */;
@@ -166,6 +170,7 @@
 				030D171522FD7F9600B36D3B /* fr */,
 				030D171822FD817100B36D3B /* it */,
 				030D171B22FDA0F400B36D3B /* en-GB */,
+				03A8568F23017EA3002DB0E4 /* hi */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -177,6 +182,7 @@
 				030D171622FD7F9600B36D3B /* fr */,
 				030D171922FD817100B36D3B /* it */,
 				030D171C22FDA0F400B36D3B /* en-GB */,
+				03A8569023017EA3002DB0E4 /* hi */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -188,6 +194,7 @@
 				030D171722FD7F9600B36D3B /* fr */,
 				030D171A22FD817100B36D3B /* it */,
 				030D171D22FDA0F400B36D3B /* en-GB */,
+				03A8569123017EA3002DB0E4 /* hi */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
