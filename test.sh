@@ -1,8 +1,8 @@
 #! /bin/bash
 echo "Custom script - start"
 
-git config --global user.name "govindMulgir"
-git config --global user.email "govind.mulgir@rajasoftwarelabs.com"
+#git config --global user.name "govindMulgir"
+#git config --global user.email "govind.mulgir@rajasoftwarelabs.com"
 
 echo "Custom - checking out to master branch"
 
