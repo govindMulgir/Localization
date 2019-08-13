@@ -14,7 +14,7 @@ agvtool next-version -all
 
 git add "LocalizationDemo.xcodeproj/project.pbxproj"
 git add "LocalizationDemo/Info.plist"
-git commit -m "upgraded build version"
+git commit -m "custom - upgraded build version [skip ci]"
 
 #git remote add origin https://github.com/govindMulgir/Localization.git
 
