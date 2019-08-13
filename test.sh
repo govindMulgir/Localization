@@ -20,10 +20,9 @@ git add "LocalizationDemo.xcodeproj/project.pbxproj"
 git add "LocalizationDemo/Info.plist"
 
 
-
 git commit -m "custom - upgraded build version [skip ci]"
 
-
+git remote set-url origin git@github.com:govindMulgir/Localization.git
 
 #git remote add origin https://github.com/govindMulgir/Localization.git
 
